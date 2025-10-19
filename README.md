@@ -1,16 +1,26 @@
-# React + Vite
+# 🗣️ Speakify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Speakify** is a modern and lightweight web app that lets you **convert your speech into text** and **text into speech** in real time.  
+Built using **React** and **Tailwind CSS**, Speakify offers a simple, clean, and responsive user interface for seamless voice-text interaction.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🎤 **Speech to Text:** Instantly transcribe your voice into written text.
+- 🔊 **Text to Speech:** Listen to any written text in a natural voice.
+- ⚡ **Real-time Processing:** Uses the browser’s native Web Speech API.
+- 📱 **Responsive UI:** Works smoothly across all screen sizes.
+- 🎨 **Clean Design:** Minimal, elegant interface built with Tailwind CSS.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **Speech Engine:** Web Speech API (SpeechSynthesis + SpeechRecognition)
+
+---
+
+
