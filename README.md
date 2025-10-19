@@ -26,4 +26,4 @@ Built using **React** and **Tailwind CSS**, Speakify offers a simple, clean, and
 
 ---
 
-
+**⚠️ Note:**  Deployment on Vercel (or other platforms) may fail due to a dependency conflict with react-speech-kit. This package requires React ^16.8.0, but the project uses React 19. For local testing, the app works fine.
