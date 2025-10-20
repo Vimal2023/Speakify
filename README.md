@@ -6,6 +6,12 @@
 **Speakify** is a modern and lightweight web app that lets you **convert your speech into text** and **text into speech** in real time.  
 Built using **React** and **Tailwind CSS**, Speakify offers a simple, clean, and responsive user interface for seamless voice-text interaction.
 
+
+
+https://github.com/user-attachments/assets/28f6126a-1bf5-41ed-863d-22992288a9b9
+
+
+
 ---
 
 ## 🚀 Features
